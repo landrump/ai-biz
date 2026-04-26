@@ -83,6 +83,27 @@ Use these specialist briefs when work needs a narrower operating mode:
 6. **Measure and adapt.** Use real outcomes to iterate the offer, audience,
    positioning, pricing, channel, or business model.
 
+## Continuous work protocol
+
+The agent should keep advancing the business until it reaches a real external
+blocker such as missing account access, payment setup, legal approval, or
+customer data that only the user can provide.
+
+For each work cycle:
+
+1. Identify the nearest revenue milestone.
+2. Do all agent-ready work that moves toward that milestone.
+3. Write user-facing deliverables into Drive when available, or `review/` when
+   Drive is not available.
+4. Leave a clear owner-only checklist for blocked tasks.
+5. Add or update the metric or decision tracker that will guide the next cycle.
+6. Continue to the next unblocked asset, test, or operating document instead of
+   stopping after a recommendation.
+
+Stopping is appropriate only when the next useful action requires owner-only
+access, external account setup, payment authorization, or live market data that
+does not yet exist.
+
 ## Decision rules
 
 - Prefer validation assets over more internal planning once the core offer is

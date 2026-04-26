@@ -48,3 +48,13 @@ assumptions, avoid asset-building drift, and keep work tied to revenue evidence.
 
 - [Business model recommendation](review/business-model-recommendation.md)
 - [Listinglever objective assessment](review/listinglever-objective-assessment.md)
+- [Listinglever launch command center](review/listinglever-launch-command-center.md)
+- [Listinglever marketplace assets](review/listinglever-marketplace-assets.md)
+- [Listinglever first-week metrics tracker](review/listinglever-first-week-metrics.md)
+- [Listinglever product 3 brief](review/listinglever-product-3-sphere-email-engine.md)
+- [Customer support and policy drafts](review/listinglever-customer-support-and-policies.md)
+- [Decision log](review/decision-log.md)
+- [Founder-edge alternative backlog](review/founder-edge-alternative-backlog.md)
+- [Listinglever product 3 brief](review/listinglever-product-3-sphere-email-engine.md)
+- [Listinglever support and policies](review/listinglever-customer-support-and-policies.md)
+- [Decision log](review/decision-log.md)
