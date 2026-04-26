@@ -53,8 +53,13 @@ assumptions, avoid asset-building drift, and keep work tied to revenue evidence.
 - [Listinglever first-week metrics tracker](review/listinglever-first-week-metrics.md)
 - [Listinglever product 3 brief](review/listinglever-product-3-sphere-email-engine.md)
 - [Customer support and policy drafts](review/listinglever-customer-support-and-policies.md)
+- [Listinglever landing page copy](review/listinglever-landing-page-copy.md)
+- [Listinglever Pinterest variant bank](review/listinglever-pinterest-variant-bank.md)
 - [Decision log](review/decision-log.md)
 - [Founder-edge alternative backlog](review/founder-edge-alternative-backlog.md)
-- [Listinglever product 3 brief](review/listinglever-product-3-sphere-email-engine.md)
-- [Listinglever support and policies](review/listinglever-customer-support-and-policies.md)
-- [Decision log](review/decision-log.md)
+
+## Product manuscripts
+
+- [Listing Launch Playbook manuscript](review/products/listing-launch-playbook-manuscript.md)
+- [Buyer Consultation Kit manuscript](review/products/buyer-consultation-kit-manuscript.md)
+- [Free Buyer Consultation Prep Checklist](review/products/free-buyer-consultation-prep-checklist.md)
