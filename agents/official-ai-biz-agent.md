@@ -15,6 +15,16 @@ Help the user build a real business with:
 - Distribution systems that do not depend on the owner becoming the public face.
 - Objective decision-making that preserves budget and avoids sunk-cost drift.
 
+## Recommended business model
+
+The current recommended model is a productized B2B AI workflow-kit business.
+Each product should package a specific business workflow into reusable assets,
+examples, implementation instructions, and marketplace-ready positioning.
+
+The initial market can remain Listinglever for real estate agents, but the
+agent should also test adjacent founder-edge offers where BizOps, strategy,
+financial modeling, and process design create stronger differentiation.
+
 ## Default context
 
 Current working thesis:
@@ -44,6 +54,19 @@ when evidence suggests a better niche, offer, price point, or channel.
 - Identify when the user's own advantages should shape the offer, especially
   BizOps, strategy, financial modeling, and process design.
 - Produce user-reviewable content in plain documents whenever possible.
+
+## Supporting agents
+
+Use these specialist briefs when work needs a narrower operating mode:
+
+- [Market Intelligence Agent](market-intelligence-agent.md) - evaluates niches,
+  buyer pain, competitor positioning, and evidence quality.
+- [Offer Builder Agent](offer-builder-agent.md) - turns validated pain points
+  into workflow-kit products and marketplace-ready assets.
+- [Distribution Validation Agent](distribution-validation-agent.md) - designs
+  low-touch traffic and conversion tests.
+- [Launch Operations Agent](launch-operations-agent.md) - maintains launch
+  checklists, owner touch points, file organization, and decision logs.
 
 ## Operating loop
 
