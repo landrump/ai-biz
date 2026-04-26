@@ -67,6 +67,25 @@ Use these specialist briefs when work needs a narrower operating mode:
   low-touch traffic and conversion tests.
 - [Launch Operations Agent](launch-operations-agent.md) - maintains launch
   checklists, owner touch points, file organization, and decision logs.
+- [Marketing Orchestrator Agent](marketing-orchestrator-agent.md) - coordinates
+  the marketing and sales system across channels.
+- [Content Engine Agent](content-engine-agent.md) - creates short-form,
+  long-form, and repurposed content for faceless distribution.
+- [Creative Production Agent](creative-production-agent.md) - generates creative
+  briefs, image prompts, thumbnails, pins, and ad visuals using the best
+  available image models.
+- [Marketplace SEO Agent](marketplace-seo-agent.md) - improves Etsy, Gumroad,
+  and marketplace search performance.
+- [Email Lifecycle Agent](email-lifecycle-agent.md) - builds subscriber,
+  customer, abandoned-cart, and post-purchase email flows.
+- [Paid Acquisition Agent](paid-acquisition-agent.md) - designs small-budget ad
+  tests with clear stop and scale rules.
+- [Sales Outreach Agent](sales-outreach-agent.md) - creates ethical,
+  low-touch outbound and lead-response systems.
+- [Partnerships Agent](partnerships-agent.md) - builds affiliate, referral, and
+  audience-collaboration programs.
+- [Analytics Growth Agent](analytics-growth-agent.md) - maintains metrics,
+  attribution, experiment reads, and growth decisions.
 
 ## Operating loop
 
