@@ -77,3 +77,26 @@ What would change this:
 - Account setup remains blocked and there is spare agent capacity.
 - A small Product 3 asset can be created without slowing launch.
 - Marketplace results show a gap that Product 3 directly fills.
+
+## 2026-04-27: Use AI-first creative production, keep Canva optional
+
+Decision:
+
+- Use ChatGPT Images 2.0 / `gpt-image-2` and Gemini Image / Nano Banana as the
+  primary creative production tools for launch graphics.
+- Treat Canva as optional, not required, unless export control, manual editing,
+  or reusable layout templates become a bottleneck.
+
+Reasoning:
+
+- The current launch needs fast image variants, marketplace thumbnails, Pinterest
+  pins, and Gumroad covers more than a complex design system.
+- Modern image models can produce strong text-heavy creative and rapid variants.
+- Avoiding Canva keeps the stack lighter unless a clear production need appears.
+
+What would change this:
+
+- AI-generated text is unreliable at marketplace thumbnail sizes.
+- The team needs editable templates for repeated manual updates.
+- Etsy or Pinterest performance shows that more controlled layout testing is
+  necessary.

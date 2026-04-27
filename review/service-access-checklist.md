@@ -15,11 +15,11 @@ marketing and sales agents can do more autonomous work.
 
 | Service | Purpose | Owner action | Agent can do after access |
 | --- | --- | --- | --- |
-| Etsy seller account | Marketplace sales | Create account, payment, tax, policies | Prepare listings, image text, SEO variants, performance readouts |
+| Etsy seller account | Marketplace sales | Profile created with existing EIN; confirm shop/payout/policy setup | Prepare listings, image text, SEO variants, performance readouts |
 | Gumroad | Direct checkout, free sample, email capture | Create account, payout, product shell access | Populate product pages, workflows, free sample, buyer emails |
 | Pinterest business | Organic discovery | Create business account | Build boards, schedule/publish pins, monitor pin performance |
-| Google Drive | Review and file handoff | Create/share folder | Organize user-facing docs, product files, image prompts, trackers |
-| Domain/email | Brand trust | Buy domain and set forwarding | Draft landing page, support macros, email copy |
+| Google Drive | Review and file handoff | Folder provided: https://drive.google.com/drive/folders/1WnlKTfb-9uQHYt09OvYJ8EhW5ioC8KDH | Organize user-facing docs, product files, image prompts, trackers |
+| Domain/email | Brand trust | Domain registered: `listinglever.net`; email status TBD | Draft landing page, support macros, email copy |
 
 ## AI creative tools
 
@@ -27,7 +27,7 @@ marketing and sales agents can do more autonomous work.
 | --- | --- | --- |
 | ChatGPT Images 2.0 / `gpt-image-2` | Text-heavy listing graphics, infographics, thumbnails, comparison images | Use when accurate text rendering and structured layouts matter. |
 | Gemini Image / Nano Banana | Pin variants, image editing, visual concept exploration, consistent design directions | Use for fast creative iteration and conversational edits. |
-| Canva | Final marketplace graphics, templates, brand consistency, PDF layout | Useful even when AI generates the first concept. |
+| Canva | Optional fallback for editable layouts and manual export control | Not required for the first launch if ChatGPT Images 2.0 and Nano Banana can produce acceptable assets. |
 
 Owner action:
 
@@ -44,6 +44,21 @@ Agent-ready outputs after access:
 - Simple infographics.
 - PDF layout direction.
 - Image prompt library.
+
+## AI-first creative workflow
+
+The default creative workflow should avoid Canva unless a practical limitation
+appears.
+
+1. Use ChatGPT Images 2.0 / `gpt-image-2` for Etsy image sets, product mockups,
+   comparison graphics, and Gumroad covers where text accuracy matters.
+2. Use Gemini Image / Nano Banana for rapid Pinterest variants, edits, background
+   concepts, and alternate visual directions.
+3. Export final PNG/JPG/PDF assets directly when quality is sufficient.
+4. Use Canva only if the team needs editable templates, manual resizing, brand
+   kits, or more reliable final layout control.
+5. Track which model created each asset so winning creative styles can be
+   repeated.
 
 ## Scheduling and distribution
 
@@ -126,25 +141,27 @@ Optional later:
 
 ## Suggested setup sequence
 
-1. Google Drive folder.
-2. Etsy seller account.
-3. Gumroad account.
-4. Pinterest business account.
-5. Domain and email forwarding.
-6. Canva workspace.
-7. One AI image tool with export rights.
-8. Email tool only if Gumroad Workflows are insufficient.
-9. Scheduler only after the first pin batch is ready.
-10. Paid ads only after baseline organic data exists.
+1. Confirm Google Drive folder permissions.
+2. Finish Etsy shop, payout, policy, and listing setup.
+3. Create Gumroad account.
+4. Create Pinterest business account.
+5. Confirm email forwarding for `listinglever.net`.
+6. Provide one AI image tool with export rights.
+7. Add the second AI image tool if creative volume or quality requires it.
+8. Use Canva only if AI-only exports are not good enough for launch assets.
+9. Email tool only if Gumroad Workflows are insufficient.
+10. Scheduler only after the first pin batch is ready.
+11. Paid ads only after baseline organic data exists.
 
 ## Immediate user asks
 
 The fastest path is for the user to create or share:
 
-1. A Google Drive folder for Listinglever.
+1. Google Drive folder access confirmation for the provided folder.
 2. Etsy seller account access or screenshots of listing setup fields.
 3. Gumroad account access.
 4. Pinterest business account access.
-5. Preferred AI image tool access: ChatGPT Images 2.0, Nano Banana/Gemini Image,
-   Canva, or all three.
+5. Email forwarding details for `hello@listinglever.net` or the preferred inbox.
+6. Preferred AI image tool access: ChatGPT Images 2.0, Nano Banana/Gemini Image,
+   or both.
 

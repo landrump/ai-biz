@@ -32,15 +32,17 @@ Primary channels:
 | Brand thesis | Ready | Agent |
 | Business model | Ready | Agent |
 | Agent stack | Ready | Agent |
-| Listing copy | In progress | Agent |
-| Gumroad copy | In progress | Agent |
-| Pinterest copy | In progress | Agent |
-| Domain purchase | Blocked | Founder |
-| Etsy seller account | Blocked | Founder |
+| Listing copy | Ready for upload | Agent |
+| Gumroad copy | Ready for upload | Agent |
+| Pinterest copy | Ready for creative production | Agent |
+| Google Drive folder | Created | Founder |
+| Domain purchase | Registered: `listinglever.net` | Founder |
+| Email forwarding | Pending confirmation | Founder |
+| Etsy seller account | Profile registered with existing business EIN | Founder |
 | Gumroad account | Blocked | Founder |
 | Pinterest business account | Blocked | Founder |
 | Payment setup | Blocked | Founder |
-| Final upload/publish | Blocked until accounts exist | Founder |
+| Final upload/publish | Blocked until product files/images and remaining accounts exist | Founder |
 
 ## Owner-only tasks
 
@@ -50,15 +52,17 @@ completed by the agent in this environment.
 ### Required before sales
 
 1. Buy or confirm the domain:
-   - Preferred: `listinglever.com`
-   - Backup: `closingstack.com`
-2. Create Etsy seller account.
-3. Create Gumroad account.
-4. Create Pinterest business account.
-5. Set up business payment account or payout method.
-6. Set up email forwarding.
-   - Recommended inbox: `hello@listinglever.com`
-7. Confirm the legal seller name and tax/payment details.
+   - Active: `listinglever.net`
+2. Confirm whether the domain includes email forwarding.
+   - Recommended inbox: `hello@listinglever.net`
+3. Finish Etsy seller setup if any payment, tax, shop policy, or listing fields
+   remain incomplete.
+4. Create Gumroad account.
+5. Create Pinterest business account.
+6. Set up business payment account or payout method where still required.
+7. Share or upload the customer-facing launch files into the Google Drive folder:
+   - https://drive.google.com/drive/folders/1WnlKTfb-9uQHYt09OvYJ8EhW5ioC8KDH
+8. Confirm the legal seller name and tax/payment details.
 
 ### Required before publishing
 

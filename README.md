@@ -58,6 +58,7 @@ assumptions, avoid asset-building drift, and keep work tied to revenue evidence.
 - [Business model recommendation](review/business-model-recommendation.md)
 - [Marketing and sales agent stack](review/marketing-sales-agent-stack.md)
 - [Service access checklist](review/service-access-checklist.md)
+- [AI-first creative production plan](review/ai-first-creative-production-plan.md)
 - [Listinglever objective assessment](review/listinglever-objective-assessment.md)
 - [Listinglever launch command center](review/listinglever-launch-command-center.md)
 - [Listinglever marketplace assets](review/listinglever-marketplace-assets.md)

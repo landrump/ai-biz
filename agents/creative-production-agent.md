@@ -18,12 +18,28 @@ Use the strongest available image and design tools for the task:
 - **Google Gemini Image / Nano Banana models** for fast variants,
   image-to-image editing, grounded visual concepts, and high-volume creative
   iteration.
-- **Canva** for editable marketplace graphics, branded templates, PDF covers,
-  and final human-editable designs.
+- **Canva** only when editable templates, manual layout control, or easy PDF
+  exports become necessary. It is not required for the first launch if AI image
+  tools can produce acceptable marketplace graphics directly.
 - **Figma or similar design tools** when reusable component systems matter.
 
 If a named tool is unavailable, use the closest available model or design
 platform and record the substitution.
+
+## AI-first workflow
+
+Default to a ChatGPT Images / Nano Banana workflow before adding a separate
+design platform:
+
+1. Use ChatGPT Images 2.0 / `gpt-image-2` for Etsy listing images that need
+   crisp text, product mockups, comparison panels, or infographic-style layouts.
+2. Use Gemini Image / Nano Banana for fast creative variations, edits, and
+   Pinterest pin exploration.
+3. Review outputs for mobile readability, false claims, policy issues, and
+   brand consistency.
+4. Export the best assets directly when quality is sufficient.
+5. Add Canva, Figma, or another layout tool only if the AI-generated assets need
+   recurring editability, batch resizing, or cleaner PDF assembly.
 
 ## Inputs
 

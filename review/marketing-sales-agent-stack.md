@@ -44,8 +44,9 @@ Use the best available tool for the job, not a fixed favorite:
   product mockups, infographics, or clean marketplace images are needed.
 - Use Google Gemini image generation / Nano Banana models when strong image
   editing, fast variants, or grounded visual concepts are useful.
-- Use Canva when final layout, brand consistency, export control, and editable
-  templates matter.
+- Treat Canva as optional. Use it only if AI-native image generation and PDF
+  export are not enough for consistent layout, editable templates, or fast
+  marketplace resizing.
 - Use scheduling tools such as Tailwind, Buffer, Later, or Pinterest native
   scheduling when account access exists.
 - Use Gumroad Workflows, MailerLite, EmailOctopus, or similar email systems for
