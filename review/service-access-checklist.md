@@ -19,6 +19,7 @@ marketing and sales agents can do more autonomous work.
 | Gumroad | Direct checkout, free sample, email capture | Create account, payout, product shell access | Populate product pages, workflows, free sample, buyer emails |
 | Pinterest business | Organic discovery | Create business account | Build boards, schedule/publish pins, monitor pin performance |
 | Google Drive | Review and file handoff | Folder provided: https://drive.google.com/drive/folders/1WnlKTfb-9uQHYt09OvYJ8EhW5ioC8KDH | Organize user-facing docs, product files, image prompts, trackers |
+| Dropbox | Writable review and asset handoff | Create a `Listinglever` folder and provide authenticated MCP/API access | Upload product files, images, trackers, and launch docs directly |
 | Domain/email | Brand trust | Domain registered: `listinglever.net`; email status TBD | Draft landing page, support macros, email copy |
 
 ## AI creative tools
@@ -68,6 +69,28 @@ appears.
 | Tailwind | Pinterest-first scheduling and testing | Sign up if volume justifies it | Build recurring pin queue and board schedule |
 | Buffer or Later | Multi-platform scheduling | Sign up if additional channels are added | Schedule posts across channels |
 | Zapier or Make | Lightweight automation | Connect accounts | Sync purchases, leads, and notifications |
+
+## Dropbox connection
+
+Dropbox is the preferred near-term replacement for Google Drive if it can provide
+authenticated write access to the agent.
+
+Current status:
+
+- Dropbox app credentials were provided in chat.
+- Do not commit app secrets, access tokens, or refresh tokens to the repository.
+- Because the app secret was pasted into chat, rotate or regenerate it in the
+  Dropbox developer console before using it for production access.
+- Safe setup instructions live in
+  [Dropbox connection setup](dropbox-connection-setup.md).
+
+Agent can proceed once one of these is available:
+
+1. Dropbox MCP is configured in Cursor for this workspace.
+2. A short-lived Dropbox access token is provided through a secure environment
+   variable for the current session.
+3. A refresh-token workflow is configured outside the repo and exposed only as
+   environment variables or secret manager values.
 
 ## Email and customer lifecycle
 
@@ -142,16 +165,17 @@ Optional later:
 ## Suggested setup sequence
 
 1. Confirm Google Drive folder permissions.
-2. Finish Etsy shop, payout, policy, and listing setup.
-3. Create Gumroad account.
-4. Create Pinterest business account.
-5. Confirm email forwarding for `listinglever.net`.
-6. Provide one AI image tool with export rights.
-7. Add the second AI image tool if creative volume or quality requires it.
-8. Use Canva only if AI-only exports are not good enough for launch assets.
-9. Email tool only if Gumroad Workflows are insufficient.
-10. Scheduler only after the first pin batch is ready.
-11. Paid ads only after baseline organic data exists.
+2. Configure Dropbox write access if Google Drive remains read-only.
+3. Finish Etsy shop, payout, policy, and listing setup.
+4. Create Gumroad account.
+5. Create Pinterest business account.
+6. Confirm email forwarding for `listinglever.net`.
+7. Provide one AI image tool with export rights.
+8. Add the second AI image tool if creative volume or quality requires it.
+9. Use Canva only if AI-only exports are not good enough for launch assets.
+10. Email tool only if Gumroad Workflows are insufficient.
+11. Scheduler only after the first pin batch is ready.
+12. Paid ads only after baseline organic data exists.
 
 ## Immediate user asks
 
