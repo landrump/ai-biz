@@ -1,0 +1,12 @@
+.env
+.env.*
+*.env
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+*.token
+dropbox-access-token.txt
+dropbox-refresh-token.txt
+dropbox-credentials.json
