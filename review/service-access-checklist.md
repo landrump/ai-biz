@@ -8,8 +8,14 @@ marketing and sales agents can do more autonomous work.
 - Use the lowest-cost stack until there is evidence of traffic or sales.
 - Prefer tools with exportable data, simple permissions, and clear billing.
 - Keep payment, identity, tax, and legal setup as owner-only tasks.
-- Give agents access only to the accounts needed for the current test.
+- Give agents access only to the accounts needed for the current test, using
+  ignored `.env` files, platform secrets, OAuth, or MCP connections.
 - Do not run paid spend without an explicit budget and success threshold.
+- Do not commit credentials, passwords, access tokens, refresh tokens, payout
+  details, recovery codes, or identity documents to GitHub.
+
+See [Automation Credential Plan](automation-credential-plan.md) for the approved
+automation credential workflow.
 
 ## Required for launch
 
@@ -92,6 +98,9 @@ Agent can proceed once one of these is available:
 3. A refresh-token workflow is configured outside the repo and exposed only as
    environment variables or secret manager values.
 
+Use `.env.example` as the placeholder map for variable names. Fill real values
+only in `.env` or platform secrets.
+
 ## Email and customer lifecycle
 
 | Tool | Best use | Owner action | Agent can do after access |
@@ -108,6 +117,8 @@ Current status:
 - Any temporary mailbox password created during setup should be changed and
   stored only in a secure password manager. Do not paste passwords into chat or
   commit them to GitHub.
+- If automated email sending/reading is desired, store SMTP/IMAP credentials in
+  `.env` or platform secrets using the variables listed in `.env.example`.
 
 ## Paid acquisition
 
@@ -176,15 +187,16 @@ Optional later:
 1. Change/store the temporary `info@listinglever.net` mailbox password securely.
 2. Confirm Google Drive folder permissions.
 3. Configure Dropbox write access if Google Drive remains read-only.
-4. Finish Etsy shop, payout, policy, and listing setup.
-5. Finish Gumroad payout setup and create product shells.
-6. Create Pinterest business account.
-7. Provide one AI image tool with export rights.
-8. Add the second AI image tool if creative volume or quality requires it.
-9. Use Canva only if AI-only exports are not good enough for launch assets.
-10. Email tool only if Gumroad Workflows are insufficient.
-11. Scheduler only after the first pin batch is ready.
-12. Paid ads only after baseline organic data exists.
+4. Add automation credentials to `.env` or platform secrets where desired.
+5. Finish Etsy shop, payout, policy, and listing setup.
+6. Finish Gumroad payout setup and create product shells.
+7. Create Pinterest business account.
+8. Provide one AI image tool with export rights.
+9. Add the second AI image tool if creative volume or quality requires it.
+10. Use Canva only if AI-only exports are not good enough for launch assets.
+11. Email tool only if Gumroad Workflows are insufficient.
+12. Scheduler only after the first pin batch is ready.
+13. Paid ads only after baseline organic data exists.
 
 ## Immediate user asks
 
