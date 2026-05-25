@@ -100,3 +100,32 @@ What would change this:
 - The team needs editable templates for repeated manual updates.
 - Etsy or Pinterest performance shows that more controlled layout testing is
   necessary.
+
+## 2026-05-25: Record Gumroad and production email setup
+
+Decision:
+
+- Use the created Gumroad profile at `listinglever.gumroad.com` for the first
+  direct checkout and free checklist products.
+- Use `info@listinglever.net` as the current production mailbox unless a
+  friendlier alias such as `hello@listinglever.net` is created later.
+
+Reasoning:
+
+- Gumroad is already created and matches the Listinglever brand.
+- The Turbify domain, hosting, and mailbox setup give the brand a working
+  business identity for support and account communication.
+- Moving forward with the existing account reduces setup drag.
+
+Credential handling:
+
+- Do not store Gumroad passwords, mailbox passwords, payout details, or recovery
+  codes in the repository.
+- Any temporary mailbox password created during setup should be changed and
+  stored only in a secure password manager.
+
+What would change this:
+
+- A different email alias becomes the preferred public support address.
+- Gumroad payout/product setup cannot be completed or creates a material launch
+  blocker.

@@ -60,6 +60,7 @@ assumptions, avoid asset-building drift, and keep work tied to revenue evidence.
 - [Service access checklist](review/service-access-checklist.md)
 - [Dropbox connection setup](review/dropbox-connection-setup.md)
 - [AI-first creative production plan](review/ai-first-creative-production-plan.md)
+- [Gumroad product setup packet](review/gumroad-product-setup-packet.md)
 - [Listinglever objective assessment](review/listinglever-objective-assessment.md)
 - [Listinglever launch command center](review/listinglever-launch-command-center.md)
 - [Listinglever marketplace assets](review/listinglever-marketplace-assets.md)

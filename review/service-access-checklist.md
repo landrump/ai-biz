@@ -16,11 +16,11 @@ marketing and sales agents can do more autonomous work.
 | Service | Purpose | Owner action | Agent can do after access |
 | --- | --- | --- | --- |
 | Etsy seller account | Marketplace sales | Profile created with existing EIN; confirm shop/payout/policy setup | Prepare listings, image text, SEO variants, performance readouts |
-| Gumroad | Direct checkout, free sample, email capture | Create account, payout, product shell access | Populate product pages, workflows, free sample, buyer emails |
+| Gumroad | Direct checkout, free sample, email capture | Account created as `listinglever`; confirm payout and product shell access | Populate product pages, workflows, free sample, buyer emails |
 | Pinterest business | Organic discovery | Create business account | Build boards, schedule/publish pins, monitor pin performance |
 | Google Drive | Review and file handoff | Folder provided: https://drive.google.com/drive/folders/1WnlKTfb-9uQHYt09OvYJ8EhW5ioC8KDH | Organize user-facing docs, product files, image prompts, trackers |
 | Dropbox | Writable review and asset handoff | Create a `Listinglever` folder and provide authenticated MCP/API access | Upload product files, images, trackers, and launch docs directly |
-| Domain/email | Brand trust | Domain registered: `listinglever.net`; email status TBD | Draft landing page, support macros, email copy |
+| Domain/email | Brand trust | Domain registered/hosted via Turbify; mailbox created as `info@listinglever.net` | Draft landing page, support macros, email copy |
 
 ## AI creative tools
 
@@ -100,6 +100,15 @@ Agent can proceed once one of these is available:
 | MailerLite | Newsletter and lead nurturing | Create account and connect domain | Build segments, automations, landing forms |
 | EmailOctopus | Low-cost email list | Create account | Build basic campaigns and subscriber flows |
 
+Current status:
+
+- Gumroad profile appears to be set up at `listinglever.gumroad.com`.
+- Gumroad account email appears to be `info@listinglever.net`.
+- Production mailbox `info@listinglever.net` has been created through Turbify.
+- Any temporary mailbox password created during setup should be changed and
+  stored only in a secure password manager. Do not paste passwords into chat or
+  commit them to GitHub.
+
 ## Paid acquisition
 
 Do not start here unless listings have a clear offer and baseline conversion
@@ -164,12 +173,12 @@ Optional later:
 
 ## Suggested setup sequence
 
-1. Confirm Google Drive folder permissions.
-2. Configure Dropbox write access if Google Drive remains read-only.
-3. Finish Etsy shop, payout, policy, and listing setup.
-4. Create Gumroad account.
-5. Create Pinterest business account.
-6. Confirm email forwarding for `listinglever.net`.
+1. Change/store the temporary `info@listinglever.net` mailbox password securely.
+2. Confirm Google Drive folder permissions.
+3. Configure Dropbox write access if Google Drive remains read-only.
+4. Finish Etsy shop, payout, policy, and listing setup.
+5. Finish Gumroad payout setup and create product shells.
+6. Create Pinterest business account.
 7. Provide one AI image tool with export rights.
 8. Add the second AI image tool if creative volume or quality requires it.
 9. Use Canva only if AI-only exports are not good enough for launch assets.
@@ -181,11 +190,12 @@ Optional later:
 
 The fastest path is for the user to create or share:
 
-1. Google Drive folder access confirmation for the provided folder.
+1. Confirmation that the temporary `info@listinglever.net` password was changed.
 2. Etsy seller account access or screenshots of listing setup fields.
-3. Gumroad account access.
+3. Gumroad product setup screenshots or access for `listinglever.gumroad.com`.
 4. Pinterest business account access.
-5. Email forwarding details for `hello@listinglever.net` or the preferred inbox.
+5. Preferred public support email: `info@listinglever.net`,
+   `hello@listinglever.net`, or another inbox.
 6. Preferred AI image tool access: ChatGPT Images 2.0, Nano Banana/Gemini Image,
    or both.
 

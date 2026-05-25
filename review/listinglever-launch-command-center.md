@@ -37,11 +37,12 @@ Primary channels:
 | Pinterest copy | Ready for creative production | Agent |
 | Google Drive folder | Created | Founder |
 | Domain purchase | Registered: `listinglever.net` | Founder |
-| Email forwarding | Pending confirmation | Founder |
+| Domain hosting | Active via Turbify Web Hosting Professional | Founder |
+| Email mailbox | Created: `info@listinglever.net` | Founder |
 | Etsy seller account | Profile registered with existing business EIN | Founder |
-| Gumroad account | Blocked | Founder |
+| Gumroad account | Created: `listinglever.gumroad.com` | Founder |
 | Pinterest business account | Blocked | Founder |
-| Payment setup | Blocked | Founder |
+| Payment setup | Needs confirmation for Etsy/Gumroad payouts | Founder |
 | Final upload/publish | Blocked until product files/images and remaining accounts exist | Founder |
 
 ## Owner-only tasks
@@ -53,16 +54,22 @@ completed by the agent in this environment.
 
 1. Buy or confirm the domain:
    - Active: `listinglever.net`
-2. Confirm whether the domain includes email forwarding.
-   - Recommended inbox: `hello@listinglever.net`
-3. Finish Etsy seller setup if any payment, tax, shop policy, or listing fields
+2. Confirm production inbox preference.
+   - Current mailbox: `info@listinglever.net`
+   - Optional alias later: `hello@listinglever.net`
+3. Change any temporary mailbox password created during setup and store it only
+   in a password manager or other secure location.
+4. Finish Etsy seller setup if any payment, tax, shop policy, or listing fields
    remain incomplete.
-4. Create Gumroad account.
-5. Create Pinterest business account.
-6. Set up business payment account or payout method where still required.
-7. Share or upload the customer-facing launch files into the Google Drive folder:
+5. Finish Gumroad setup:
+   - Confirm profile details.
+   - Confirm payout/payment setup.
+   - Create product shells or provide setup screenshots.
+6. Create Pinterest business account.
+7. Set up business payment account or payout method where still required.
+8. Share or upload the customer-facing launch files into the Google Drive folder:
    - https://drive.google.com/drive/folders/1WnlKTfb-9uQHYt09OvYJ8EhW5ioC8KDH
-8. Confirm the legal seller name and tax/payment details.
+9. Confirm the legal seller name and tax/payment details.
 
 ### Required before publishing
 
@@ -112,10 +119,12 @@ Listinglever is considered launched when:
 
 ## Immediate next build sequence
 
-1. Finish listing copy for the first two products and bundle.
-2. Finish Gumroad page copy.
-3. Finish Pinterest pin queue.
-4. Create first-week metrics tracker.
-5. Create a launch decision log entry.
-6. Create the next product brief only after launch assets are ready.
+1. Convert the existing Gumroad page copy into product setup instructions for
+   the first paid bundle and free checklist.
+2. Create Gumroad product shells and upload fields.
+3. Finish Etsy listing upload fields for the first two products and bundle.
+4. Create AI-first visual prompts for Gumroad cover, Etsy thumbnails, and
+   Pinterest pins.
+5. Create Pinterest business account and first board structure.
+6. Create first-week metrics tracker entries once products are live.
 
