@@ -55,6 +55,8 @@ assumptions, avoid asset-building drift, and keep work tied to revenue evidence.
 
 ## Review artifacts
 
+- [Listinglever agent orchestration visual](review/visuals/listinglever-agent-orchestration.svg)
+- [Listinglever agent orchestration guide](review/visuals/listinglever-agent-orchestration-guide.md)
 - [Business model recommendation](review/business-model-recommendation.md)
 - [Marketing and sales agent stack](review/marketing-sales-agent-stack.md)
 - [Service access checklist](review/service-access-checklist.md)
